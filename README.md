@@ -1,7 +1,3 @@
-# Project 4 Repo
-
-# Project 3 Repo
-
 <h2>281 Project 4 Learning Outcomes</h2>
 
 * Build a To-Do app that uses the Web Storage API
